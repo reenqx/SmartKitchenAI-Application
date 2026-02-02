@@ -15,6 +15,8 @@
 - Flutter 3.8.1 (Dart 3.8) + Material Design
 - Firebase: Authentication, Cloud Firestore, Storage, Messaging, Dynamic Links, App Check
 - Google Gemini ผ่านแพ็กเกจ `google_generative_ai` และ ML Kit Barcode Scanning
+- spoonacular-recipe-food-nutrition api
+- open food fact api
 - Provider + Shared Preferences สำหรับสถานะและแคชในเครื่อง
 - Firebase Cloud Functions (Node.js 18) สำหรับงาน background
 
@@ -81,3 +83,4 @@ GEMINI_USE_SDK=true
 - สร้าง branch ย่อยสำหรับแต่ละฟีเจอร์และเปิด Pull Request พร้อมคำอธิบายการทดสอบ.
 - ตรวจสอบการอนุญาตกล้องและการแจ้งเตือนบนอุปกรณ์จริงก่อนปล่อยใช้งาน.
 - ใช้ภาษาไทยใน UI ให้สอดคล้องกับทีมและผู้ใช้ เปลี่ยนค่าฟอนต์ใน `ThemeData` ได้ตามต้องการ.
+
